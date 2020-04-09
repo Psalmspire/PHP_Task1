@@ -30,9 +30,9 @@
  <input type="text" name="last_name"  placeholder="Enter Your Last Name" required />
 </p>
 
-<p><label for="Other names"> Other name:
+<p><label for="User name"> User Name:
 </label>
- <input type="text" name="other_name"  placeholder="Enter Your Other Name"  />
+ <input type="text" name="user_name"  placeholder="Enter Your Other Name"  />
 </p>
 <p><label for="Matriculation number"> Mat No:
 </label>

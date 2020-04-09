@@ -14,7 +14,11 @@
 <br/>
 
 <div style="align-content: center; justify-content: center; display: flex; min-height: 50vh; width: 50%;   " >
-<form action = "form.php" method="POST"  >
+<form action = "form.php" method="POST" 
+
+
+
+>
 
 <p><label for="First name"> First Name:
 </label>
@@ -45,8 +49,8 @@
  <input type="radio" name="gender" /> Male 		</p>
   
 <p> <label for="Faculty">Faculty</label><br /> 
-<select name="department"> 
-	<option>Select Department</option> 
+<select name="faculty"> 
+	<option>Select Faculty</option> 
 	<option>Engineering</option>
 	<option>Life Science</option>
 	<option>Education</option> 
